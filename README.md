@@ -45,7 +45,7 @@ ___
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LafuenteColoradoJose)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LafuenteColoradoJose&theme=dark)](https://git.io/streak-stats)
 
 ___
 ## :zap: Projects
