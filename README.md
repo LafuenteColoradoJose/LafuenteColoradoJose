@@ -23,7 +23,7 @@ I am a passionate and hardworking professional who constantly strives to achieve
 ___ 
 
 ## About my :man_technologist:
-
+![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
 
 
