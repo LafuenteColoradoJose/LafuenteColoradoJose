@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ___
-![](http://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-4.png)
+
+
+I am a passionate and hardworking professional who constantly strives to achieve excellence in everything I do. My relentless focus on learning and growing drives me to stay up-to-date with the latest trends and technologies in my field.
+
+___ 
+
+## About my :man_technologist:
+
+
+
+
+
