@@ -49,7 +49,4 @@ ___
 
 ___
 ## :zap: Projects
-
-[![LafuenteColoradoJose/SkyRoutesII - GitHub](https://gh-card.dev/repos/LafuenteColoradoJose/SkyRoutesII.svg)](https://github.com/LafuenteColoradoJose/SkyRoutesII)
-
-
+![GitHub Repo Card](https://ghc.clait.sh/repo/LafuenteColoradoJose/SkyRoutesII?bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff7800&show_user=true)
