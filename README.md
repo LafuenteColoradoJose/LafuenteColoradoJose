@@ -48,7 +48,7 @@ ___
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LafuenteColoradoJose)](https://git.io/streak-stats)
 
 ___
-## :tunder: Projects
+## :zap: Projects
 
 
 
