@@ -22,7 +22,7 @@ I am a passionate and hardworking professional who constantly strives to achieve
 
 ___ 
 
-## About my :man_technologist:
+## :man_technologist: About my 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -43,9 +43,13 @@ ___
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LafuenteColoradoJose)](https://git.io/streak-stats)
+
+___
+## :tunder: Projects
+
 
 
 
