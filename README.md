@@ -49,4 +49,4 @@ ___
 
 ___
 ## :zap: Projects
-![GitHub Repo Card](https://ghc.clait.sh/repo/LafuenteColoradoJose/SkyRoutesII?bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff7800&show_user=true)
+![GitHub Repo Card](https://ghc.clait.sh/repo/LafuenteColoradoJose/SkyRoutesII?bg_color=000000&title_color=1c71d8&text_color=ffffff&icon_color=ff7800&show_user=true)
