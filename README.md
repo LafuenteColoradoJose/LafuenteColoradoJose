@@ -41,5 +41,11 @@ ___
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LafuenteColoradoJose)](https://git.io/streak-stats)
+
 
 
