@@ -1,4 +1,5 @@
-### Hi i'm José Lafuente 👋
+### Hi i'm José Lafuente <img alt="A Warm Hello!" title="Hello, World!" src="https://cdn.pixabay.com/animation/2022/12/05/10/47/10-47-58-930_256.gif" width="auto" height="20" />
+
 
 <!--
 **LafuenteColoradoJose/LafuenteColoradoJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
