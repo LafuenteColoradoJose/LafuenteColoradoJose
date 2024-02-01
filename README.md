@@ -47,6 +47,8 @@ ___
 ---
 ## 📖 Learning now:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ---
 
 ## :fire: My Stats :
