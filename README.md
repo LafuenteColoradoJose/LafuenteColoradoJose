@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ___
 
 
-I am a passionate and hardworking professional who constantly strives to achieve excellence in everything I do. My relentless focus on learning and growing drives me to stay up-to-date with the latest trends and technologies in my field.
+"Passionate professional committed to continuous learning, focused on quality and delivering excellence in every project, while staying up-to-date with the latest trends and technologies."
 
 ___ 
 
