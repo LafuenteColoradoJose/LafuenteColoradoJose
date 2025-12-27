@@ -91,11 +91,11 @@ ___
 
 ---
 
-## :fire: My Stats :
-
-![LafuenteColoradoJose's Stats](https://github-readme-stats.vercel.app/api?username=LafuenteColoradoJose&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-![LafuenteColoradoJose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LafuenteColoradoJose&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<h3 align="left">🔥 My Stats :</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LafuenteColoradoJose&theme=vue-dark&show_icons=true&hide_border=false" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafuenteColoradoJose&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="180" alt="top languages graph" />
+</div>
 
 
 ___
