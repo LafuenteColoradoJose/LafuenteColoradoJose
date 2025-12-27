@@ -91,10 +91,14 @@ ___
 
 ---
 
-<h3 align="left">🔥 My Stats :</h3>
+### 🔥 My Stats :
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LafuenteColoradoJose&theme=vue-dark&show_icons=true&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafuenteColoradoJose&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="180" alt="top languages graph" />
+  <img src="https://streak-stats.demolab.com?user=LafuenteColoradoJose&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafuenteColoradoJose&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Top Languages" />
 </div>
 
 
