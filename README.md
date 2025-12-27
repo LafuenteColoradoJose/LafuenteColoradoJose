@@ -97,6 +97,8 @@ ___
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LafuenteColoradoJose&theme=tokyonight" alt="Perfil" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LafuenteColoradoJose&theme=tokyonight" alt="Lenguajes" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LafuenteColoradoJose&theme=tokyonight&utcOffset=1" alt="Horario Productivo" />
 </div>
 
 
