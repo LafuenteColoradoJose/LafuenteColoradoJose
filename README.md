@@ -91,14 +91,12 @@ ___
 
 ---
 
-### 🔥 My Stats :
+<h3 align="left">🔥 Mis Estadísticas (Servidor Alternativo)</h3>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=LafuenteColoradoJose&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LafuenteColoradoJose&theme=tokyonight" alt="Perfil" />
   
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafuenteColoradoJose&theme=tokyonight&hide_border=true&layout=compact" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LafuenteColoradoJose&theme=tokyonight" alt="Lenguajes" />
 </div>
 
 
