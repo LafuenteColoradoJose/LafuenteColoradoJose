@@ -91,7 +91,7 @@ ___
 
 ---
 
-<h3 align="left">🔥 Mis Estadísticas</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LafuenteColoradoJose&theme=tokyonight" alt="Perfil" />
