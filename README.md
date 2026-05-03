@@ -104,4 +104,4 @@ ___
 
 ___
 ## :zap: Projects
-[![LafuenteColoradoJose/eye_of_Medina - GitHub](https://gh-card.dev/repos/LafuenteColoradoJose/eye_of_Medina.svg)]([https://github.com/LafuenteColoradoJose/eye_of_Medina])
+[![LafuenteColoradoJose/eye_of_Medina - GitHub](https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/Logo_Eye_of_Medina.webp)]([https://github.com/LafuenteColoradoJose/eye_of_Medina])
