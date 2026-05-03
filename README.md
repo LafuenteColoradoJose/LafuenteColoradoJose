@@ -103,5 +103,40 @@ ___
 
 
 ___
-## :zap: Projects
-[![LafuenteColoradoJose/eye_of_Medina - GitHub](https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/Logo_Eye_of_Medina.webp)]([https://github.com/LafuenteColoradoJose/eye_of_Medina])
+## ⚡ Projects
+
+<div align="center">
+
+  <!-- Logo Principal -->
+  <a href="https://github.com/LafuenteColoradoJose/eye_of_Medina">
+    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/Logo_Eye_of_Medina.webp" alt="Eye of Medina Logo" width="320">
+  </a>
+
+  <br>
+
+  ## [Eye of Medina](https://github.com/LafuenteColoradoJose/eye_of_Medina)
+  **Modern Web Dashboard for Proxmox VE Monitoring and Management**
+
+  <br>
+
+  <!-- Logo/Badge de Proxmox que NO falla -->
+  <p align="center">
+    <small>OPTIMIZED FOR</small><br>
+    <a href="https://www.proxmox.com" target="_blank">
+      <img src="https://img.shields.io/badge/Proxmox_VE-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE">
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Stack Tecnológico -->
+  <p>
+    <img src="https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 4">
+    <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  </p>
+
+  ---
+
+</div>
