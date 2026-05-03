@@ -125,7 +125,10 @@ ___
     <a href="https://www.proxmox.com" target="_blank">
       <img src="https://img.shields.io/badge/Proxmox_VE-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE">
     </a>
+    <br>
+    <small>**Developed with ❤️ for the Proxmox community**</small><br>
   </p>
+  
 
   <br>
 
