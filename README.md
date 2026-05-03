@@ -104,4 +104,4 @@ ___
 
 ___
 ## :zap: Projects
-[![LafuenteColoradoJose/SkyRoutesII - GitHub](https://gh-card.dev/repos/LafuenteColoradoJose/SkyRoutesII.svg)](https://github.com/LafuenteColoradoJose/SkyRoutesII)
+[![LafuenteColoradoJose/eye_of_Medina - GitHub](https://gh-card.dev/repos/LafuenteColoradoJose/eye_of_Medina.svg)]([https://github.com/LafuenteColoradoJose/eye_of_Medina])
