@@ -70,12 +70,25 @@ ___
 <div align="center">
 
   <a href="https://github.com/LafuenteColoradoJose/eye_of_Medina">
-    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/Logo_Eye_of_Medina.webp" alt="Eye of Medina Logo" width="320">
+    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/Logo_Eye_of_Medina.webp" alt="Eye of Medina Logo" width="120">
   </a>
+  
+  <br><br>
 
+  <!-- Galería de capturas de pantalla pequeñas -->
+  <p align="center">
+    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/screenshots/01_dashboard.png" alt="Dashboard" width="200" style="border-radius: 8px;">
+    &nbsp;
+    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/screenshots/02_vnc_console.png" alt="VNC Console" width="200" style="border-radius: 8px;">
+    &nbsp;
+    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/screenshots/03_network.png" alt="Network" width="200" style="border-radius: 8px;">
+    &nbsp;
+    <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/screenshots/04_storage.png" alt="Storage" width="200" style="border-radius: 8px;">
+  </p>
+  
   <br>
 
-  ## [Eye of Medina](https://github.com/LafuenteColoradoJose/eye_of_Medina)
+  ### [Eye of Medina](https://github.com/LafuenteColoradoJose/eye_of_Medina)
   **Modern Web Dashboard for Proxmox VE Monitoring and Management**
 
   <br>
@@ -86,7 +99,7 @@ ___
       <img src="https://img.shields.io/badge/Proxmox_VE-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE">
     </a>
     <br>
-    <small>**Developed with ❤️ for the Proxmox community**</small>
+    <small><strong>Developed with ❤️ for the Proxmox community</strong></small>
   </p>
 
   <br>
