@@ -7,7 +7,7 @@
     Hi, I'm José Lafuente
   </h3>
   <p align="center">
-    <strong>Full Stack Developer & Systems Administrator (ASIR + DAW)</strong><br>
+    <strong>Web Developer & Systems Administrator (ASIR + DAW)</strong><br>
     <em>"Passionate professional committed to continuous learning, focused on quality and delivering excellence in every project, while staying up-to-date with the latest trends and technologies."</em>
   </p>
 </div>
