@@ -60,6 +60,7 @@ ___
     <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
     <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></td>
     <td><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></td>
+    <td><img src="https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"></td>
   </tr>
 </table>
 
