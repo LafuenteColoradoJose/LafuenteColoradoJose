@@ -8,6 +8,7 @@
   </h3>
   <p align="center">
     <strong>Web Developer & Systems Administrator (ASIR + DAW)</strong><br>
+    <em>Specializing in Artificial Intelligence, Big Data & Cloud Infrastructure</em><br><br>
     <em>"Passionate professional committed to continuous learning, focused on quality and delivering excellence in every project, while staying up-to-date with the latest trends and technologies."</em>
   </p>
 </div>
@@ -16,61 +17,83 @@ ___
 
 ## 👨‍💻 Professional Stack
 
-### 🖥️ Programming Languages
+### 🖥️ Programming Languages & Environments
 <table>
   <tr>
+    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
+    <td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></td>
     <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
     <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></td>
     <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
-    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
     <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
   </tr>
 </table>
 
-### 🌐 Frontend Development
+### 🧠 Artificial Intelligence & Machine Learning
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></td>
-    <td><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"></td>
-    <td><img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxtjs"></td>
-    <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></td>
-    <td><img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></td>
-    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
+    <td><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></td>
+    <td><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></td>
+    <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></td>
+    <td><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></td>
   </tr>
 </table>
 
-### ☁️ Cloud, Systems & DevOps (ASIR Core)
+### 📊 Big Data, Data Engineering & Analytics
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"></td>
-    <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
-    <td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></td>
-    <td><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></td>
-    <td><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></td>
-    <td><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"></td>
-  </tr>
-</table>
-
-### 🧑‍🔬 Data Science & AI
-<table>
-  <tr>
+    <td><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></td>
+    <td><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"></td>
+    <td><img src="https://img.shields.io/badge/Apache%20NiFi-E63629?style=for-the-badge&logo=apache&logoColor=white" alt="Apache NiFi"></td>
+    <td><img src="https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"></td>
+    <td><img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"></td>
     <td><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></td>
     <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></td>
-    <td><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></td>
-    <td><img src="https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop"></td>
+  </tr>
+</table>
+
+### 📈 Data Visualization & Business Intelligence
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></td>
+    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"></td>
+    <td><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"></td>
+  </tr>
+</table>
+
+### 🌐 Frontend & Web Development
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt.js"></td>
+    <td><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"></td>
+    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></td>
+    <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></td>
+    <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
+    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+  </tr>
+</table>
+
+### ☁️ Cloud, Systems & DevOps
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></td>
+    <td><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"></td>
+    <td><img src="https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"></td>
+    <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
+    <td><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></td>
+    <td><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></td>
   </tr>
 </table>
 
 ---
 
 ## 🎓 Education & Certifications
-* **HND in Network Systems Administration (ASIR)** | 2024 - 2026
-* **HND in Web Applications Development (DAW)** | 2021 - 2023
-* **Applied Machine Learning with Python** (IFCD093PO) | 2024
-* **Data Mining & Business Intelligence** (IFCT032PO) | 2024
+- **Specialization Course in Artificial Intelligence & Big Data** | *In progress*
+- **HND in Network Computer Systems Administration (ASIR)** | 2024 - 2026
+- **HND in Web Applications Development (DAW)** | 2021 - 2023
+- **Applied Machine Learning with Python** (IFCD093PO) | 2024
+- **Data Mining & Business Intelligence** (IFCT032PO) | 2024
 
 ---
 
@@ -92,7 +115,6 @@ ___
   
   <br><br>
 
-  <!-- Galería de capturas de pantalla pequeñas -->
   <p align="center">
     <img src="https://github.com/LafuenteColoradoJose/eye_of_Medina/raw/main/public/screenshots/01_dashboard.png" alt="Dashboard" width="200" style="border-radius: 8px;">
     &nbsp;
